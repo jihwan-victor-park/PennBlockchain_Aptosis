@@ -1,0 +1,15 @@
+=== APT Monte Carlo Simulation (90-Day) ===
+
+Simulations   : 10,000
+Current Price : $0.9415
+Daily μ       : -0.008834
+Daily σ       : 0.053101
+
+Price Targets:
+  Bear  (5th) : $0.1621  (-82.8%)
+  Low  (25th) : $0.2653  (-71.8%)
+  Base (50th) : $0.3728  (-60.4%)
+  High (75th) : $0.5266  (-44.1%)
+  Bull (95th) : $0.8650  (-8.1%)
+
+P(price < current) : 96.6%

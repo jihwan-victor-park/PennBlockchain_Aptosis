@@ -1,0 +1,16 @@
+=== Relative Value Regression Summary ===
+
+Window: last 90 days average
+Peers:  Avalanche C-Chain, Near, Sei Network, Sui
+
+Model R²         : 0.988
+Aptos Actual FDV : $2.90B
+Aptos Fair FDV   : $2.05B
+Overvaluation    : +41.1%
+
+Coefficients (log-log):
+  revenue   : +0.395
+  dau       : -0.237
+  tvl       : +0.278
+
+Intercept: +16.568

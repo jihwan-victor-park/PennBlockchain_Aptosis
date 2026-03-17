@@ -1,0 +1,4 @@
+Granger Causality Test: Supply Shock -> Price Return
+Optimal Lag: 1
+F-Statistic: 1.0291
+p-value: 0.3106

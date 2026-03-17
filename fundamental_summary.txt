@@ -1,0 +1,22 @@
+Quarterly Averages:
+            Transactions           TVL  Developers
+date                                              
+2025-06-30     3229217.4  1.102036e+09       172.6
+2025-09-30     3462603.7  8.684197e+08       207.7
+2025-12-31     3115056.6  5.779270e+08       132.7
+2026-03-31     3500772.9  2.889396e+08        92.2
+
+QoQ Change (%):
+            Transactions   TVL  Developers
+date                                      
+2025-06-30          -8.7  10.6       -13.6
+2025-09-30           7.2 -21.2        20.3
+2025-12-31         -10.0 -33.5       -36.1
+2026-03-31          12.4 -50.0       -30.5
+
+Key diagnostic summary:
+
+TVL drawdown from peak: -99.8%
+Developer decline from peak (smoothed): -85.4%
+Circulating supply growth since start: 196.7%
+Latest Price-TVL indexed gap: -76.0

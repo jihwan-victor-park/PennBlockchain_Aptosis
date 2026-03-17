@@ -1,0 +1,17 @@
+# Data files (large CSVs - download locally from Artemis)
+datas/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temp/path artifacts
+path
